@@ -1,0 +1,6 @@
+1.take GPS time and send on app and server using simcom and wifi
+2.reduce the time delay from all at commands
+3.read the voltage limit from the server 
+4.store the voltage data in flash
+5.read the flash data and verify(feed back)
+6.send the flash data on app
